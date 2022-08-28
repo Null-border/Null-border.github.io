@@ -1,0 +1,45 @@
+* BJUT: a student's perspective
+:PROPERTIES:
+:CUSTOM_ID: bjut-a-students-perspective
+:END:
+* 3教地图
+:PROPERTIES:
+:CUSTOM_ID: 教地图
+:END:
+** floor 1
+:PROPERTIES:
+:CUSTOM_ID: floor-1
+:END:
+[[./imgs/floor1.jpg]]
+
+** floor 2
+:PROPERTIES:
+:CUSTOM_ID: floor-2
+:END:
+[[./imgs/floor2.jpg]]
+
+** floor 3
+:PROPERTIES:
+:CUSTOM_ID: floor-3
+:END:
+[[./imgs/floor3.jpg]]
+
+** floor 4
+:PROPERTIES:
+:CUSTOM_ID: floor-4
+:END:
+[[./imgs/floor4.jpg]]
+
+** floor 5
+:PROPERTIES:
+:CUSTOM_ID: floor-5
+:END:
+[[./imgs/floor5.jpg]]
+
+* 食堂开饭时间
+:PROPERTIES:
+:CUSTOM_ID: 食堂开饭时间
+:END:
+天天餐厅: 7:00-9:00, 11:00-13:00 16:30-18:30
+
+
