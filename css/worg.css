@@ -230,6 +230,8 @@
 
     img {
 	border: 0;
+    height: 200px;
+    width:  800px;
     }
 
     .share img {

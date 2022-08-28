@@ -1,5 +1,7 @@
+#+HTML_HEAD: <link rel="stylehseet" href="../css/bjut.css" />
 #+HTML_HEAD: <link rel="stylesheet" href="../css/worg.css" />
 #+TITLE: BJUT:ASP
+
 * 3教地图
 - floor 1
   [[./imgs/floor1.jpg]]
