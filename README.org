@@ -1,2 +1,4 @@
-* tu10ng.github.io
-[[https://tu10ng.github.io/][个人主页]]
+这是我的个人网站: [[https://tu10ng.github.io/][个人主页]]
+
+- 一些BJUT的tip: [[https://tu10ng.github.io/bjut/][BJUT: a student's perspective]]
+
