@@ -1,0 +1,3 @@
+[submodule "ds_homework"]
+	path = ds_homework
+	url = git@github.com:tu10ng/ds_homework.git
